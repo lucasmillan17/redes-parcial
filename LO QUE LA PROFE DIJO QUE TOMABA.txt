@@ -1,0 +1,19 @@
+[19:52, 11/3/2026] ~Rocio Jaluf: distinguir trama, paquete, diferencias
+[19:52, 11/3/2026] ~Rocio Jaluf: direcciones fisicas y logicas definicion
+[19:52, 11/3/2026] ~Rocio Jaluf: en que etapas se utilizan las direc fisicas y logicas
+[19:52, 11/3/2026] ~Rocio Jaluf: normas de la 802.11 -> hay preguntas efectivamente
+[19:52, 11/3/2026] ~Rocio Jaluf: saber subnetear perfecto
+[19:52, 11/3/2026] ~Rocio Jaluf: permisos-> ntfs y recursos compartidos, cuando se aplica uno o otro, y cuando el mas restrictivo
+[19:52, 11/3/2026] ~Rocio Jaluf: ¿cuales son los permisos efectivos de x sobre esta acrpeta A TRAVES DE LA RED, considerar permisos ahi lo que dice a traves de la red el mas restrictivo
+[19:52, 11/3/2026] ~Rocio Jaluf: cuales son los permisos efectivos de x logueado frente a la pc que contiene el recurso
+[19:52, 11/3/2026] ~Rocio Jaluf: o sea-> diferenciar cuando pregunte a traves de la red
+[19:52, 11/3/2026] ~Rocio Jaluf: aprender las ultimas normas de la 802...
+[19:52, 11/3/2026] ~Rocio Jaluf: de subneteo puede darnos una clase b y decir que la subnetees
+[19:52, 11/3/2026] ~Rocio Jaluf: o decirte que quiere en /17,/18
+[19:52, 11/3/2026] ~Rocio Jaluf: y apartir de cada subred, decir cuales son los host, broadcast, direccion de subred
+[19:52, 11/3/2026] ~Rocio Jaluf: hay muchos ej de permisos, puso una de subneteo, pero hay otras vinculadas a subneteo, entonces hay que aprender las operaciones
+[19:52, 11/3/2026] ~Rocio Jaluf: no van definiciones
+[19:52, 11/3/2026] ~Rocio Jaluf: 20 preguntas, 19 V o F y 1 para desarrollar
+[19:52, 11/3/2026] ~Rocio Jaluf: repasar windows , peer to peer, servidores, disp de interconexion, direc IP
+[19:52, 11/3/2026] ~Rocio Jaluf: todo
+[19:52, 11/3/2026] ~Rocio Jaluf: LLEVAR CALCULADORA Y CARPETA PARA APOYAR (❤️ ~C)
